@@ -3,7 +3,7 @@ MBT.Debug = false
 
 MBT.Language = "EN"
 
-MBT.Framework = "OX" -- OX/ESX/QB
+MBT.Framework = "ESX" -- OX/ESX/QB
 
 MBT.MenuKey = "J"
 
