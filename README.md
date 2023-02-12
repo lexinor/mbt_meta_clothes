@@ -19,7 +19,7 @@ Remember to check and change if needed the ```Default``` clothes in ```MBT.Drawa
 ## ox_inventory/data/items.lua
 
 ```
-['topdress'] = {
+	['topdress'] = {
 		label 		= 'Top Dress',
 		description = 'YOUR_DESCRIPTION',
 		weight 		= 100,
@@ -30,7 +30,8 @@ Remember to check and change if needed the ```Default``` clothes in ```MBT.Drawa
 			usetime = 1200,
 		}
 	},
-  ['jacket'] = {
+
+  	['jacket'] = {
 		label 		= 'Jacket',
 		description = 'YOUR_DESCRIPTION',
 		weight 		= 100,
@@ -41,7 +42,8 @@ Remember to check and change if needed the ```Default``` clothes in ```MBT.Drawa
 			usetime = 1200,
 		}
 	},
-  ['trousers'] = {
+
+  	['trousers'] = {
 		label 		= 'Trousers',
 		description = 'YOUR_DESCRIPTION',
 		weight 		= 100,
@@ -52,7 +54,8 @@ Remember to check and change if needed the ```Default``` clothes in ```MBT.Drawa
 			usetime = 1200,
 		}
 	},
-  ['shoes'] = {
+
+  	['shoes'] = {
 		label 		= 'Shoes',
 		description = 'YOUR_DESCRIPTION',
 		weight 		= 100,
@@ -63,7 +66,8 @@ Remember to check and change if needed the ```Default``` clothes in ```MBT.Drawa
 			usetime = 1200,
 		}
 	},
-  ['hat'] = {
+
+  	['hat'] = {
 		label 		= 'Hat',
 		description = 'YOUR_DESCRIPTION',
 		weight 		= 100,
@@ -74,7 +78,8 @@ Remember to check and change if needed the ```Default``` clothes in ```MBT.Drawa
 			usetime = 1200,
 		}
 	},
-  ['glasses'] = {
+
+  	['glasses'] = {
 		label 		= 'Glasses',
 		description = 'YOUR_DESCRIPTION',
 		weight 		= 100,
@@ -85,7 +90,8 @@ Remember to check and change if needed the ```Default``` clothes in ```MBT.Drawa
 			usetime = 1200,
 		}
 	},
-  ['earaccess'] = {
+
+  	['earaccess'] = {
 		label 		= 'Ear Accessories',
 		description = 'YOUR_DESCRIPTION',
 		weight 		= 100,
@@ -96,7 +102,8 @@ Remember to check and change if needed the ```Default``` clothes in ```MBT.Drawa
 			usetime = 1200,
 		}
 	},
-  ['chain'] = {
+
+  	['chain'] = {
 		label 		= 'Torso Accessories',
 		description     = 'Torso Accessories',
 		weight 		= 100,
@@ -107,7 +114,8 @@ Remember to check and change if needed the ```Default``` clothes in ```MBT.Drawa
 			usetime = 2500,
 		}
 	},
-  ['watch'] = {
+
+  	['watch'] = {
 		label 		= 'Watch',
 		description     = 'Watch',
 		weight 		= 100,
