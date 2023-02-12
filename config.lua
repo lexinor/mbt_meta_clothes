@@ -1,7 +1,7 @@
 MBT = {}
-MBT.Debug = false
+MBT.Debug = true
 
-MBT.Language = "EN"
+MBT.Language = "FR"
 
 MBT.Framework = "ESX" -- OX/ESX/QB
 
@@ -39,6 +39,22 @@ MBT.Labels = {
         ["jacket"] = "Jacket",
         ["watch"] = "Watch",
         ["sett_name"] = "Clothes Menu"
+    },
+    ["FR"] = {
+        ["nothing_to_unwear"] = "Vous n'avez rien à retirer !",
+        ["props_desc"] = "Accessoire appartenant à %s",
+        ["clothes_desc"] = "Vêtement appartenant à %s",
+        ["ear_acc"] = "Accessoire Oreilles",
+        ["glasses"] = "Lunettes",
+        ["chain"] = "Accessoire Torse",
+        ["hats"] = "Couvre-chef",
+        ["arms"] = "Bras",
+        ["legs"] = "Jambes",
+        ["foot"] = "Pieds",
+        ["t_shirt"] = "T-Shirt",
+        ["jacket"] = "Veste",
+        ["watch"] = "Montre",
+        ["sett_name"] = "Menu Vêtements"
     },
 }
 
